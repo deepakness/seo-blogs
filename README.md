@@ -1,6 +1,6 @@
 # 100+ SEO Blogs List
 
-I have compiled a list of 100+ SEO blogs that create really high-quality content on the topics related to SEO. Let's take a look:
+Whether you're a novice or a pro, there's always something new to learn about SEO. That's why I've compiled a list of 100+ SEO blogs that you can follow and learn from.
 
 1. [Ahrefs](https://ahrefs.com/blog/)
 2. [Aleyda Solis](https://www.aleydasolis.com/en/blog/)

@@ -115,3 +115,7 @@ Whether you're a novice or a pro, there's always something new to learn about SE
 109. [Distilled](https://www.distilled.net/resources/)
 110. [Deep Crawl](https://www.deepcrawl.com/)
 111. [SEO Copywriting](http://www.seocopywriting.com/blog/)
+
+That's it.
+
+You can [download the same list as Google Sheets](https://docs.google.com/spreadsheets/d/1Zh_HsqggSucKfTXPWmQp3CS2O-BJVzg4BqQtKteiUjo/edit?usp=sharing) too.

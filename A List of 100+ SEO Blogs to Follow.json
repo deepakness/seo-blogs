@@ -1,0 +1,414 @@
+[
+  {
+    "blog_name": "Search Engine Land",
+    "blog_url": "https://searchengineland.com/"
+  },
+  {
+    "blog_name": "Kevin Indig",
+    "blog_url": "https://www.kevin-indig.com/"
+  },
+  {
+    "blog_name": "SEO by the Sea",
+    "blog_url": "http://www.seobythesea.com/"
+  },
+  {
+    "blog_name": "CrazyEgg",
+    "blog_url": "http://www.crazyegg.com"
+  },
+  {
+    "blog_name": "ClickMinded",
+    "blog_url": "https://www.clickminded.com/digital-marketing-blog/"
+  },
+  {
+    "blog_name": "Cognitive SEO",
+    "blog_url": "https://cognitiveseo.com/blog/"
+  },
+  {
+    "blog_name": "Ahrefs",
+    "blog_url": "https://ahrefs.com/blog/"
+  },
+  {
+    "blog_name": "Shopify Blog",
+    "blog_url": "https://www.shopify.com/blog"
+  },
+  {
+    "blog_name": "SEO Theory",
+    "blog_url": "https://www.seo-theory.com/"
+  },
+  {
+    "blog_name": "SEER Interactive",
+    "blog_url": "http://www.seerinteractive.com/blog/"
+  },
+  {
+    "blog_name": "Zyro",
+    "blog_url": "https://zyro.com/blog/"
+  },
+  {
+    "blog_name": "Local Visibility System",
+    "blog_url": "http://www.localvisibilitysystem.com/"
+  },
+  {
+    "blog_name": "HigherVisibility",
+    "blog_url": "http://www.highervisibility.com"
+  },
+  {
+    "blog_name": "WooCommerce",
+    "blog_url": "https://woocommerce.com/blog/"
+  },
+  {
+    "blog_name": "WP Beginner",
+    "blog_url": "https://www.wpbeginner.com/"
+  },
+  {
+    "blog_name": "Hobo SEO",
+    "blog_url": "https://www.hobo-web.co.uk/seo-blog/"
+  },
+  {
+    "blog_name": "Niche Pursuits",
+    "blog_url": "https://www.nichepursuits.com/"
+  },
+  {
+    "blog_name": "Neil Patel",
+    "blog_url": "https://neilpatel.com/blog/"
+  },
+  {
+    "blog_name": "UntalkedSEO",
+    "blog_url": "https://untalkedseo.com/"
+  },
+  {
+    "blog_name": "Mangools",
+    "blog_url": "https://mangools.com/blog/"
+  },
+  {
+    "blog_name": "Moz",
+    "blog_url": "https://moz.com/blog"
+  },
+  {
+    "blog_name": "TLDR Marketing",
+    "blog_url": "https://tldrmarketing.com/seo/"
+  },
+  {
+    "blog_name": "Glen Alsopp",
+    "blog_url": "https://detailed.com/blog/"
+  },
+  {
+    "blog_name": "Backlinko",
+    "blog_url": "https://backlinko.com/blog"
+  },
+  {
+    "blog_name": "Authority Hacker",
+    "blog_url": "https://www.authorityhacker.com/blog/"
+  },
+  {
+    "blog_name": "GotchSEO",
+    "blog_url": "https://www.gotchseo.com/blog/"
+  },
+  {
+    "blog_name": "SparkToro",
+    "blog_url": "https://sparktoro.com/"
+  },
+  {
+    "blog_name": "Clickz",
+    "blog_url": "https://www.clickz.com/"
+  },
+  {
+    "blog_name": "Greenlane Marketing",
+    "blog_url": "https://www.greenlanemarketing.com/blog/"
+  },
+  {
+    "blog_name": "Last Week in Local",
+    "blog_url": "https://localu.org/blog/"
+  },
+  {
+    "blog_name": "BigCommerce",
+    "blog_url": "https://www.bigcommerce.com/blog/"
+  },
+  {
+    "blog_name": "Pepper Content",
+    "blog_url": "https://www.peppercontent.io/"
+  },
+  {
+    "blog_name": "Brightlocal",
+    "blog_url": "https://www.brightlocal.com/insights/blog/"
+  },
+  {
+    "blog_name": "Aleyda Solis",
+    "blog_url": "https://www.aleydasolis.com/en/blog/"
+  },
+  {
+    "blog_name": "LocalSEOGuide",
+    "blog_url": "http://www.localseoguide.com"
+  },
+  {
+    "blog_name": "Conductor",
+    "blog_url": "https://www.conductor.com/blog/"
+  },
+  {
+    "blog_name": "BuzzSumo",
+    "blog_url": "http://www.buzzsumo.com"
+  },
+  {
+    "blog_name": "G-Squared Interactive",
+    "blog_url": "https://www.gsqi.com/marketing-blog/"
+  },
+  {
+    "blog_name": "BrightEdge",
+    "blog_url": "https://www.brightedge.com/blog/"
+  },
+  {
+    "blog_name": "Lion Zeal",
+    "blog_url": "https://lionzeal.com/blog/"
+  },
+  {
+    "blog_name": "Onely",
+    "blog_url": "https://www.onely.com/blog/"
+  },
+  {
+    "blog_name": "Magento",
+    "blog_url": "https://business.adobe.com/blog/"
+  },
+  {
+    "blog_name": "Dejan SEO",
+    "blog_url": "https://dejanmarketing.com/blog/"
+  },
+  {
+    "blog_name": "GrowthHackers",
+    "blog_url": "http://www.growthhackers.com/"
+  },
+  {
+    "blog_name": "Search Engine Roundtable",
+    "blog_url": "https://www.seroundtable.com/"
+  },
+  {
+    "blog_name": "Portent SEO",
+    "blog_url": "https://www.portent.com/blog/seo"
+  },
+  {
+    "blog_name": "Orbit Media",
+    "blog_url": "https://www.orbitmedia.com/blog/"
+  },
+  {
+    "blog_name": "Content Marketing Institute",
+    "blog_url": "https://contentmarketinginstitute.com/blog/"
+  },
+  {
+    "blog_name": "Buzzstream",
+    "blog_url": "http://www.buzzstream.com/blog"
+  },
+  {
+    "blog_name": "TopRankBlog",
+    "blog_url": "http://www.toprankblog.com"
+  },
+  {
+    "blog_name": "Marketing Land",
+    "blog_url": "https://marketingland.com/"
+  },
+  {
+    "blog_name": "John Battelle",
+    "blog_url": "http://battellemedia.com/"
+  },
+  {
+    "blog_name": "From The Future",
+    "blog_url": "https://ftf.agency/blog/"
+  },
+  {
+    "blog_name": "Google Search Central Blog",
+    "blog_url": "https://developers.google.com/search/blog"
+  },
+  {
+    "blog_name": "Web Marketing School",
+    "blog_url": "https://webmarketingschool.com/"
+  },
+  {
+    "blog_name": "CopyBlogger",
+    "blog_url": "https://www.copyblogger.com/"
+  },
+  {
+    "blog_name": "Marie Haynes",
+    "blog_url": "https://www.mariehaynes.com/blog/"
+  },
+  {
+    "blog_name": "Diggity Marketing",
+    "blog_url": "https://diggitymarketing.com/blog/"
+  },
+  {
+    "blog_name": "Brodie Clark",
+    "blog_url": "https://brodieclark.com/blog/"
+  },
+  {
+    "blog_name": "SEO.com",
+    "blog_url": "https://www.seo.com/blog/"
+  },
+  {
+    "blog_name": "Deep Crawl",
+    "blog_url": "https://www.deepcrawl.com/"
+  },
+  {
+    "blog_name": "Merj",
+    "blog_url": "https://merj.com/digital/blog"
+  },
+  {
+    "blog_name": "BruceClay",
+    "blog_url": "https://www.bruceclay.com/"
+  },
+  {
+    "blog_name": "Digital Marketing Depot",
+    "blog_url": "https://digitalmarketingdepot.com/"
+  },
+  {
+    "blog_name": "Yoast",
+    "blog_url": "https://yoast.com/seo-blog/"
+  },
+  {
+    "blog_name": "Content King Academy",
+    "blog_url": "https://www.contentkingapp.com/academy/"
+  },
+  {
+    "blog_name": "QuickSprout",
+    "blog_url": "https://www.quicksprout.com/"
+  },
+  {
+    "blog_name": "Builtvisible",
+    "blog_url": "https://builtvisible.com/blog/"
+  },
+  {
+    "blog_name": "Candour",
+    "blog_url": "https://withcandour.co.uk/blog"
+  },
+  {
+    "blog_name": "StudioHawk SEO",
+    "blog_url": "https://studiohawk.com.au/blog/"
+  },
+  {
+    "blog_name": "SEO Copywriting",
+    "blog_url": "http://www.seocopywriting.com/blog/"
+  },
+  {
+    "blog_name": "Raven",
+    "blog_url": "https://raventools.com/blog/"
+  },
+  {
+    "blog_name": "BloggersPassion",
+    "blog_url": "https://bloggerspassion.com/"
+  },
+  {
+    "blog_name": "RankMath",
+    "blog_url": "https://rankmath.com/blog/"
+  },
+  {
+    "blog_name": "Robbie Richards",
+    "blog_url": "https://www.robbierichards.com/"
+  },
+  {
+    "blog_name": "Income School",
+    "blog_url": "https://incomeschool.com/"
+  },
+  {
+    "blog_name": "GoDaddy Blog",
+    "blog_url": "https://www.godaddy.com/garage/"
+  },
+  {
+    "blog_name": "Hobo-Web",
+    "blog_url": "https://www.hobo-web.co.uk/"
+  },
+  {
+    "blog_name": "SearchEngineGuide",
+    "blog_url": "http://www.searchengineguide.com/"
+  },
+  {
+    "blog_name": "Search Engine Watch",
+    "blog_url": "http://searchenginewatch.com/"
+  },
+  {
+    "blog_name": "SEOPlus+",
+    "blog_url": "https://www.seoplus.ca/blog/"
+  },
+  {
+    "blog_name": "Kissmetrics",
+    "blog_url": "http://www.kissmetrics.com/"
+  },
+  {
+    "blog_name": "Think With Google",
+    "blog_url": "https://www.thinkwithgoogle.com/"
+  },
+  {
+    "blog_name": "SEMRush",
+    "blog_url": "https://www.semrush.com/blog/"
+  },
+  {
+    "blog_name": "Tubular Insights",
+    "blog_url": "http://www.tubularinsights.com/"
+  },
+  {
+    "blog_name": "SEO Book",
+    "blog_url": "http://www.seobook.com/blog"
+  },
+  {
+    "blog_name": "Matthew Woodward",
+    "blog_url": "https://www.matthewwoodward.co.uk/"
+  },
+  {
+    "blog_name": "RavenTools",
+    "blog_url": "http://www.raventools.com"
+  },
+  {
+    "blog_name": "Search Engine Journal",
+    "blog_url": "https://www.searchenginejournal.com/"
+  },
+  {
+    "blog_name": "Miles Beckler",
+    "blog_url": "https://www.milesbeckler.com/"
+  },
+  {
+    "blog_name": "Path Interactive",
+    "blog_url": "https://www.pathinteractive.com/blog/"
+  },
+  {
+    "blog_name": "Evolving SEO",
+    "blog_url": "http://www.evolvingseo.com/blog/"
+  },
+  {
+    "blog_name": "Kaiser the Sage",
+    "blog_url": "https://kaiserthesage.com/"
+  },
+  {
+    "blog_name": "DailySEO",
+    "blog_url": "http://dailyseotip.com/"
+  },
+  {
+    "blog_name": "HubSpot",
+    "blog_url": "https://blog.hubspot.com/"
+  },
+  {
+    "blog_name": "Chief Marketing Technologist",
+    "blog_url": "https://chiefmartec.com"
+  },
+  {
+    "blog_name": "Google Webmaster Central Blog",
+    "blog_url": "https://webmasters.googleblog.com/"
+  },
+  {
+    "blog_name": "Searchmetrics",
+    "blog_url": "https://www.searchmetrics.com/"
+  },
+  {
+    "blog_name": "Blind Five Year Old",
+    "blog_url": "http://www.blindfiveyearold.com/"
+  },
+  {
+    "blog_name": "Local Search Forum",
+    "blog_url": "https://localsearchforum.com/"
+  },
+  {
+    "blog_name": "Perficient",
+    "blog_url": "https://blogs.perficient.com/"
+  },
+  {
+    "blog_name": "Distilled",
+    "blog_url": "https://www.distilled.net/resources/"
+  },
+  {
+    "blog_name": "Brandon Gaille",
+    "blog_url": "https://brandongaille.com/"
+  }
+]
